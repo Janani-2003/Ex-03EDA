@@ -7,7 +7,6 @@ To perform EDA on the given data set.
 The primary aim with exploratory analysis is to examine the data for distribution, outliers and 
 anomalies to direct specific testing of your hypothesis.
  
-
 # ALGORITHM
 ### STEP 1
 Import the built libraries required to perform EDA and outlier removal
